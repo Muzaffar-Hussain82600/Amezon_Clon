@@ -3,10 +3,10 @@
     font-family: Arial;
     border: border-box;
 }
-.navebar {
+.navbar {
 height: 60px;
 background-color: #0f1111;
-color: white;
+color: rgb(205, 196, 196);
 display: flex;
 align-items: center;
 justify-content: space-evenly;
